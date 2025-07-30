@@ -20,10 +20,8 @@ This project aims to build a robust data infrastructure capable of collecting, s
 
 ## Folder Structure
 
-```
 .
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
-```
