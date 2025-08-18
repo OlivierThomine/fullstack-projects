@@ -15,8 +15,9 @@ Walmart Inc. is a leading American multinational retail corporation operating a 
 - plotly, matplotlib 
 
 ## Folder Structure
-walmart_sales_project/
+```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
