@@ -15,8 +15,9 @@ AT&T wants to improve its user safety by implementing a spam detection system fo
 - scikit-learn  
 
 ## Folder Structure
-.
+```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
