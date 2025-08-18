@@ -15,8 +15,10 @@ This project simulates a machine learning competition similar to those hosted on
 - plotly, matplotlib
 
 ## Folder Structure
+```
 conversion_rate_project/
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
