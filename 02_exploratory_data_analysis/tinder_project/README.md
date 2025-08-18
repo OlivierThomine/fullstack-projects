@@ -16,8 +16,9 @@ The dataset contains detailed information about participant preferences, perceiv
 - Jupyter Notebook  
 
 ## Folder Structure  
-.
+```
 ├── data/ 
 ├── notebooks/ 
 ├── scripts/ 
 └── README.md
+```
