@@ -14,8 +14,9 @@ This project aims to support Ubisoft in understanding the current video game eco
 - AWS S3
 
 ## Folder Structure
-.
+```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
