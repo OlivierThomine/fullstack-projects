@@ -15,8 +15,9 @@ Uber aims to improve its customer experience by reducing pickup delays, which of
 - plotly  
 
 ## Folder Structure
-.
+```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
