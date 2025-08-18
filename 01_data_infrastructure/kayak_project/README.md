@@ -19,9 +19,10 @@ This project aims to build a robust data infrastructure capable of collecting, s
 - plotly
 
 ## Folder Structure
-
+```
 .
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
