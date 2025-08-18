@@ -16,7 +16,6 @@ This project simulates a machine learning competition similar to those hosted on
 
 ## Folder Structure
 ```
-conversion_rate_project/
 ├── data/
 ├── notebooks/
 ├── scripts/
