@@ -20,8 +20,9 @@ Getaround is a peer-to-peer car rental platform. Late returns between two bookin
 - Hugging Face Spaces  
 
 ## Folder Structure
-.
+```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
+```
