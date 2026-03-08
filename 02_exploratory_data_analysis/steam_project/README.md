@@ -27,14 +27,6 @@ The dataset was processed using PySpark within a Databricks environment to handl
 - Data visualization in Databricks
 
 ## Folder Structure
-<<<<<<< HEAD
-```
-├── data/
-├── notebooks/
-├── scripts/
-└── README.md
-```
-=======
 steam_project/
 │
 ├── notebooks/
@@ -46,4 +38,3 @@ steam_project/
 ## How to Use
 - Open Steam.html to view the full analysis and all charts
 - Import Steam.ipynb into Databricks to rerun or extend the analysis
->>>>>>> 574e1b1 (Update certification projects)

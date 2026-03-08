@@ -24,16 +24,7 @@ The project follows a typical machine learning workflow:
 - Plotly
 
 ## Folder Structure
-<<<<<<< HEAD
-```
-├── data/
-├── notebooks/
-├── scripts/
-└── README.md
-```
-=======
 .
 ├── data/               # datasets (ignored in git)
 ├── notebooks/
 └── README.md
->>>>>>> 574e1b1 (Update certification projects)
