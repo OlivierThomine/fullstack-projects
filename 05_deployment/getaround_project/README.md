@@ -1,7 +1,9 @@
 # Getaround – Model Deployment
 
 ## Project Description
-Getaround is a peer-to-peer car rental platform. Late returns between two bookings often generate friction between users. This project aims to analyze the impact of late checkouts and support product decisions through a web dashboard. Additionally, a machine learning model is deployed to assist with price optimization.
+Getaround is a peer-to-peer car rental platform where late vehicle returns can create conflicts between consecutive bookings.
+This project analyzes rental delays to quantify their operational impact and support product decisions such as introducing buffer times between rentals.
+The project also includes a machine learning model designed to support pricing optimization, deployed through an API and connected to a web dashboard for interactive exploration.
 
 ## Objectives
 - Analyze the impact of rental overlaps and late checkouts.
@@ -9,10 +11,18 @@ Getaround is a peer-to-peer car rental platform. Late returns between two bookin
 - Build and deploy a machine learning model to suggest optimal prices.
 - Provide a functional API and documentation for external use.
 
+## Project Components
+The project includes several components:
+- **Exploratory Data Analysis** to understand rental delay patterns.
+- **Machine Learning model** to estimate optimal rental prices.
+- **FastAPI service** exposing the trained model.
+- **Streamlit dashboard** to visualize insights and predictions.
+- **MLflow tracking** for experiment management.
+
 ## Tech Stack
 - Python  
-- pandas  
-- scikit-learn  
+- Pandas  
+- Scikit-learn  
 - Streamlit  
 - FastAPI  
 - MLflow  
@@ -20,8 +30,13 @@ Getaround is a peer-to-peer car rental platform. Late returns between two bookin
 - Hugging Face Spaces  
 
 ## Folder Structure
+<<<<<<< HEAD
 ```
 ├── data/
+=======
+.
+├── data/           # datasets (ignored in git)
+>>>>>>> 574e1b1 (Update certification projects)
 ├── notebooks/
 ├── scripts/
 └── README.md

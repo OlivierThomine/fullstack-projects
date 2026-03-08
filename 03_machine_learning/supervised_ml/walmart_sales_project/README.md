@@ -8,16 +8,32 @@ Walmart Inc. is a leading American multinational retail corporation operating a 
 - Identify which features most influence sales.
 - Evaluate and improve model accuracy while minimizing overfitting.
 
+## Methodology
+The project follows a typical machine learning workflow:
+
+1. Data exploration and cleaning.
+2. Feature analysis and selection.
+3. Training regression models to predict weekly sales.
+4. Evaluation using performance metrics to assess model accuracy.
+5. Interpretation of model coefficients to identify the most influential variables.
+
 ## Tech Stack
 - Python  
-- pandas  
-- scikit-learn  
-- plotly, matplotlib 
+- Pandas  
+- Scikit-learn  
+- Plotly
 
 ## Folder Structure
+<<<<<<< HEAD
 ```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
 ```
+=======
+.
+├── data/               # datasets (ignored in git)
+├── notebooks/
+└── README.md
+>>>>>>> 574e1b1 (Update certification projects)

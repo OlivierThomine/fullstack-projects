@@ -1,0 +1,24 @@
+# Environment
+.env
+!.env.example
+
+# Data files
+data/
+
+# Notebook HTML exports
+notebooks/*.html
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Outputs
+outputs/
+
+# System
+Thumbs.db
+*.log
+.DS_Store

@@ -10,14 +10,21 @@ This project simulates a machine learning competition similar to those hosted on
 
 ## Tech Stack
 - Python  
-- pandas  
-- scikit-learn  
-- plotly, matplotlib
+- Pandas  
+- Scikit-learn  
+- Plotly
 
 ## Folder Structure
+<<<<<<< HEAD
 ```
 ├── data/
 ├── notebooks/
 ├── scripts/
 └── README.md
 ```
+=======
+.
+├── data/               # datasets (ignored in git)
+├── notebooks/
+└── README.md
+>>>>>>> 574e1b1 (Update certification projects)
