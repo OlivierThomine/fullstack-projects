@@ -4,6 +4,22 @@ This repository contains all the projects completed as part of the **Fullstack D
 
 ---
 
+## Featured Projects (Data Engineering)
+
+### Kayak – Data Ingestion Pipeline
+Pipeline designed to collect external travel data through APIs, transform and structure the data, and store it in a cloud environment for analytics and visualization.
+
+### Steam – Distributed Big Data Processing
+Large-scale dataset processing using PySpark, including ingestion, transformation, and structuring of semi-structured data for analytical purposes.
+
+### Getaround – ML API & Deployment
+Analysis of rental delays to evaluate their impact on vehicle availability. Deployment of a model through an API with an interactive dashboard for exploration and visualization.
+
+### Final Project – Multi-source Data Integration
+Collection, cleaning, and harmonization of climate and real-estate datasets to build a structured dataset used for modeling and visualization.
+
+---
+
 ## Repository Structure
 
 ```
