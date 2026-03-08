@@ -25,7 +25,9 @@ Main steps:
 - Plotly  
 
 ## Folder Structure
+```text
 .
 ├── data/           # datasets (ignored in git)
 ├── notebooks/
 └── README.md
+```

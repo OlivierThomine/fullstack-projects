@@ -30,6 +30,7 @@ The project includes several components:
 - Hugging Face Spaces  
 
 ## Folder Structure
+```text
 .
 ├── data/           # datasets (ignored in git)
 ├── notebooks/

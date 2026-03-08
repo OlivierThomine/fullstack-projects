@@ -15,7 +15,9 @@ This project simulates a machine learning competition similar to those hosted on
 - Plotly
 
 ## Folder Structure
+```text
 .
 ├── data/               # datasets (ignored in git)
 ├── notebooks/
 └── README.md
+```

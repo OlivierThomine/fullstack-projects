@@ -25,7 +25,9 @@ Main steps:
 - Scikit-learn  
 
 ## Folder Structure
+```text
 .
 ├── data/           # datasets (ignored in git)
 ├── notebooks/
 └── README.md
+```

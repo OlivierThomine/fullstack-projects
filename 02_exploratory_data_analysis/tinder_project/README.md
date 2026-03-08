@@ -26,8 +26,10 @@ The main steps include:
 - Plotly
 - Jupyter Notebook  
 
-## Folder Structure  
+## Folder Structure
+```text  
 .
 ├── data/           # datasets (ignored in git)
 ├── notebooks/ 
 └── README.md
+```
