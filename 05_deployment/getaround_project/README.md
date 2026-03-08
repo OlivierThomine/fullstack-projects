@@ -30,13 +30,8 @@ The project includes several components:
 - Hugging Face Spaces  
 
 ## Folder Structure
-<<<<<<< HEAD
-```
-├── data/
-=======
 .
 ├── data/           # datasets (ignored in git)
->>>>>>> 574e1b1 (Update certification projects)
 ├── notebooks/
 ├── scripts/
 └── README.md

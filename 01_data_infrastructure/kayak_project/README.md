@@ -29,14 +29,6 @@ The project follows a simple data pipeline:
 - Plotly
 
 ## Folder Structure
-<<<<<<< HEAD
-```
-├── data/
-├── notebooks/
-├── scripts/
-└── README.md
-```
-=======
 .
 ├── .env                 
 ├── .env.example         # Copy .env.example to .env and fill in your own keys before running the notebook         
@@ -74,4 +66,3 @@ The project follows a simple data pipeline:
 │       └── hotel_table_02.png
 │
 └── README.md             
->>>>>>> 574e1b1 (Update certification projects)
